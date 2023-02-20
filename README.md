@@ -7,6 +7,6 @@ use: After run the file then just type the mob.number into the terminal panel an
 # windows/mac
 $req-
 
-$pip install phonenumbers
+-pip install phonenumbers
 
 "file run"
